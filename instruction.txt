@@ -1,0 +1,11 @@
+open the command.
+
+find project directory.
+
+input command :
+
+python First-Task.py
+
+you can see it.
+
+please.. input typing image : (you can input image name)
